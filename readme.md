@@ -1,4 +1,4 @@
-LATCH
+LATCH:
 1.latches operate based on level triggering
 2.latches do not have clock signal
 3.latches can be constructed using logic gates
@@ -10,7 +10,7 @@ LATCH
 9.latches are less robust
 10.latches require less area
 
-Flip-Flop
+Flip-Flop:
 1.filp-flops operate based on edge triggering
 2.flip-flops have a clock signal
 3.flip-flop can be constructed using latches and a clock
