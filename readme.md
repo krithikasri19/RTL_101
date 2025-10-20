@@ -9,7 +9,7 @@ LATCH:
 7.latches require less power \
 8.latches perform asynchronous operations \
 9.latches are less robust \
-10.latches require less area \
+10.latches require less area 
 
 Flip-Flop: 
 
