@@ -1,5 +1,5 @@
 LATCH:
-1.latches operate based on level triggering
+1.latches operate based on level triggering \
 2.latches do not have clock signal
 3.latches can be constructed using logic gates
 4.latches are sensitive to the input signal only when enabled
